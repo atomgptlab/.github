@@ -9,10 +9,11 @@ Welcome to **AtomGPTLab** at JHU – advancing AI-powered atomistic materials de
 - Inverse design workflows
 - Graph neural networks
 - Density functional theory
+- Materials Database
 
 🚀 Featured Project: [CME: ChatGPT Material Explorer](https://github.com/AtomGPTLab/chatgpt_material_explorer)  
 
-🌐 PI: Kamal Choudhary (E-mail: kchoudh2@jh.edu)
+🌐 PI: Kamal Choudhary (E-mail: kchoudh2@jhu.edu)
 
 🔬Interested in working with us, please fill this [form](https://forms.gle/TvWAHPpNs4BUDJkx9)
 
