@@ -7,9 +7,10 @@ Welcome to **AtomGPTLab** at JHU – advancing AI-powered atomistic materials de
 - Inverse Design Workflows  
 - Graph Neural Networks  
 - Density Functional Theory  
-- Materials Databases  
+- Materials Databases
+- Functional materials such as superconductors, semiconductors etc.
 
-🚀 Featured Project: [atomgpt.org](https://atomgpt.org/)
+🚀 Featured Project: [AGAPI: Atomgpt.org API](https://github.com/atomgptlab/agapi)
 
 ## Contact
 🌐 PI: [Kamal Choudhary](mailto:kchoudh2@jhu.edu)
