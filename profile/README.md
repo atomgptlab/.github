@@ -24,3 +24,4 @@ Welcome to **AtomGPTLab** at JHU – advancing AI-powered atomistic materials de
 2. [ChatGPT Material Explorer](https://link.springer.com/article/10.1007/s40192-025-00410-9)  
 3. [MicroscopyGPT](https://pubs.acs.org/doi/10.1021/acs.jpclett.5c01257)  
 
+[![Watch the video](https://img.youtube.com/vi/VtjluGg-_I8/0.jpg)](https://www.youtube.com/watch?v=VtjluGg-_I8)
