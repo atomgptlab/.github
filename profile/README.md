@@ -1,36 +1,39 @@
 # 👾 AtomGPTLab
 
-Welcome to **AtomGPTLab** at JHU – advancing AI-powered atomistic materials design.
+Welcome to **AtomGPTLab** and [Choudhary Research Group](https://choudhary.wse.jhu.edu/) at the Johns Hopkins University - advancing AI-powered atomistic materials design.
 
 ## Research Areas
-- Generative AI for Materials  
+- Generative and Agentic AI for Materials  
 - Inverse Design Workflows  
 - Graph Neural Networks  
 - Density Functional Theory  
 - Materials Databases
 - Functional materials such as superconductors, semiconductors etc.
 
-🚀 Featured Project: [AGAPI: Atomgpt.org API](https://github.com/atomgptlab/agapi)
+🚀 Featured Project: 
+
+[AGAPI: Atomgpt.org API](https://github.com/atomgptlab/agapi) 
+
+[AtomBench](https://github.com/atomgptlab/atombench_inverse)
 
 ## Contact
 🌐 PI: [Kamal Choudhary](mailto:kchoudh2@jhu.edu)
 
 
-🔬 Interested in joining us? Please fill out [this form](https://forms.gle/TvWAHPpNs4BUDJkx9).
-
 🌟 If you find this project useful, consider starring the repo to support open materials research!
 
 ## Latest Publications
-1. [The JARVIS infrastructure is all you need for materials design](https://www.sciencedirect.com/science/article/abs/pii/S0927025625004069)  
-2. [ChatGPT Material Explorer](https://link.springer.com/article/10.1007/s40192-025-00410-9)  
-3. [MicroscopyGPT](https://pubs.acs.org/doi/10.1021/acs.jpclett.5c01257)  
+1. [AtomBench](https://arxiv.org/abs/2510.16165) 
+2. [The JARVIS infrastructure is all you need for materials design](https://www.sciencedirect.com/science/article/abs/pii/S0927025625004069)  
+3. [ChatGPT Material Explorer](https://link.springer.com/article/10.1007/s40192-025-00410-9)  
+4. [MicroscopyGPT](https://pubs.acs.org/doi/10.1021/acs.jpclett.5c01257)  
 
-Choudhary group website: [https://choudhary.wse.jhu.edu](https://choudhary.wse.jhu.edu/)/
 
 
 | Name | Description |Details | Conda Package | PyPi Package | 
 |------|-------------|:-------------:|:-------------:|:-------------:|
 | [atomgptlab/agapi](https://github.com/AtomGPTLab/agapi) | AtomGPT.org API Usage Examples. | [:books:](https://github.com/AtomGPTLab/agapi/blob/main/README.md)|   | |
+| [atomgptlab/atombench_inverse](https://github.com/atomgptlab/atombench_inverse) | A Benchmark for Generative Atomic Structure Models using GPT, Diffusion, and Flow Architectures. | [:books:](https://github.com/atomgptlab/atombench_inverse/blob/main/README.md)|   | |
 | [atomgptlab/chatgpt_material_explorer](https://github.com/AtomGPTLab/chatgpt_material_explorer) | ChatGPT based Material Science Assistant for materials data and simulations. | [:books:](https://github.com/AtomGPTLab/chatgpt_material_explorer/blob/main/README.md)|   | |
 | [atomgptlab/jarvis-tools](https://github.com/atomgptlab/jarvis-tools) | JARVIS-Tools: An open-source software package for data-driven atomistic materials design | [:books:](https://pages.nist.gov/jarvis/) | [:package:](https://anaconda.org/conda-forge/jarvis-tools) | [:package:](https://pypi.org/project/jarvis-tools/)|
 | [atomgptlab/alignn](https://github.com/atomgptlab/alignn) | ALIGNN: Atomistic Line Graph Neural Network and force-field | [:books:](https://github.com/usnistgov/alignn/blob/main/README.md) | [:package:](https://anaconda.org/conda-forge/alignn) | [:package:](https://pypi.org/project/alignn/)|
@@ -47,6 +50,7 @@ Choudhary group website: [https://choudhary.wse.jhu.edu](https://choudhary.wse.j
 | [atomgptlab/benchqc](https://github.com/atomgptlab/benchqc) | A Benchmarking Toolkit for Quantum Computation | [:books:](https://github.com/usnistgov/benchqc/blob/main/README.md) | ||
 | [atomgptlab/catalysismat](https://github.com/atomgptlab/catalysismat) | Examining Generalizability of AI Models for Catalysis | [:books:](https://github.com/usnistgov/catalysismat/blob/main/README.md) | ||
 
-
+[DockerHub](https://hub.docker.com/repositories/atomgptlab)
+[HuggingFace](https://huggingface.co/atomgptlab)
 
 [![Watch the video](https://img.youtube.com/vi/VtjluGg-_I8/0.jpg)](https://www.youtube.com/watch?v=VtjluGg-_I8)
