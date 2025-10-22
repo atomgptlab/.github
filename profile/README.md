@@ -10,7 +10,9 @@ Welcome to **AtomGPTLab** and [Choudhary Research Group](https://choudhary.wse.j
 - Materials Databases
 - Functional materials such as superconductors, semiconductors etc.
 
-🚀 Featured Project: 
+🚀 Featured Projects: 
+
+[ChatGPT Material Explorer](https://github.com/AtomGPTLab/chatgpt_material_explorer)
 
 [AGAPI: Atomgpt.org API](https://github.com/atomgptlab/agapi) 
 
