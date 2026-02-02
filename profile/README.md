@@ -1,6 +1,6 @@
 # 👾 AtomGPTLab
 
-Welcome to **AtomGPTLab** and [Choudhary Research Group](https://choudhary.wse.jhu.edu/) at the Johns Hopkins University - advancing AI-powered atomistic materials design.
+Welcome to **AtomGPTLab** and [Choudhary Research Group](https://choudhary.wse.jhu.edu/) at the Johns Hopkins University - advancing AI-powered atomistic materials design. Webapp: [https://atomgpt.org/](https://atomgpt.org/)
 
 ## Research Areas
 - Generative and Agentic AI for Materials  
