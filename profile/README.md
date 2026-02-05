@@ -12,7 +12,7 @@ Welcome to **AtomGPTLab** and [Choudhary Research Group](https://choudhary.wse.j
 
 🚀 Featured Projects: 
 
-[SlaKoNet(https://github.com/AtomGPTLab/slakonet)
+[SlaKoNet](https://github.com/AtomGPTLab/slakonet)
 
 [ChatGPT Material Explorer](https://github.com/AtomGPTLab/chatgpt_material_explorer)
 
